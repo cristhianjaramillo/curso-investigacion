@@ -1,2 +1,5 @@
 title: ""   # no title will appear
 theme: jekyll-theme-minimal
+
+include:
+  - assets/css/custom.css
