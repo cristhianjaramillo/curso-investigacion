@@ -1,5 +1,15 @@
-title: ""   # no title will appear
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 
-include:
-  - assets/css/custom.css
+title: "Curso de Actualización en Métodos y Técnicas de Investigación"
+description: "Material del curso de estadística y métodos de investigación"
+
+# URL base (muy importante para que funcione en /curso-investigacion/)
+baseurl: "/curso-investigacion"
+url: "https://cristhianjaramillo.com"
+
+# Configuración de Just the Docs
+color_scheme: light
+search_enabled: true
+aux_links:
+  "GitHub":
+    - "//github.com/cristhianjaramillo/curso-investigacion"
