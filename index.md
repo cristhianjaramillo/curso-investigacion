@@ -1,6 +1,5 @@
 ---
 layout: default
-title: ""  # leave blank to hide title
 ---
 
 # [Curso de Actualización en Métodos y Técnicas de Investigación](https://github.com/cristhianjaramillo/curso-investigacion)
