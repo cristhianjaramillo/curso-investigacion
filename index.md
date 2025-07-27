@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Inicio"
+nav_order: 1
 ---
 
 # [Curso de Actualización en Métodos y Técnicas de Investigación](https://github.com/cristhianjaramillo/curso-investigacion)
