@@ -1,4 +1,7 @@
-header h1,
-header .project-name {
-  display: none !important;
+h1 {
+  color: #1CA2F1;
+}
+
+header h1 {
+  display: none;
 }
