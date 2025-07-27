@@ -1,15 +1,8 @@
-remote_theme: just-the-docs/just-the-docs
+theme: jekyll-theme-cayman
 
 title: "Curso de Actualización en Métodos y Técnicas de Investigación"
-description: "Material del curso de estadística y métodos de investigación"
+description: "Materiales y guías para el curso de estadística y métodos de investigación"
 
-# URL base (muy importante para que funcione en /curso-investigacion/)
+# Esto es clave para que funcione en la subcarpeta
 baseurl: "/curso-investigacion"
 url: "https://cristhianjaramillo.com"
-
-# Configuración de Just the Docs
-color_scheme: light
-search_enabled: true
-aux_links:
-  "GitHub":
-    - "//github.com/cristhianjaramillo/curso-investigacion"
