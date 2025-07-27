@@ -6,3 +6,5 @@ description: "Materiales y guías para el curso de estadística y métodos de in
 # Esto es clave para que funcione en la subcarpeta
 baseurl: "/curso-investigacion"
 url: "https://cristhianjaramillo.com"
+include:
+  - assets/css/custom.css
