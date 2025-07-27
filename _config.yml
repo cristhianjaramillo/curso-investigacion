@@ -1,3 +1,6 @@
-title: ""   # no title will appear
-description: "Curso de Actualización en Métodos y Técnicas de Investigación"
-theme: minima
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Add this line to include your CSS
+sass:
+  style: compressed
