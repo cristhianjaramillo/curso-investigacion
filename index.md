@@ -1,11 +1,3 @@
----
-layout: default
-title: "Inicio"
-nav_order: 1
----
-
-# [Curso de Actualización en Métodos y Técnicas de Investigación](https://github.com/cristhianjaramillo/curso-investigacion)
-
 [![ORCID Profile Badge](https://img.shields.io/badge/ORCID-Profile-informational?style=flat&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-4673-0565)  [![GitHub Profile Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/cristhianjaramillo)  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/schrodingercase)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cristhian-jaramillo-00888aa6/)  [![ResearchGate Profile Badge](https://img.shields.io/badge/ResearchGate-Profile-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Cristhian-Jaramillo-2)  [![Figshare Profile Badge](https://img.shields.io/badge/Figshare-Profile-informational?style=flat&logo=figshare&logoColor=white&color=48A5E3)](https://figshare.com/authors/Cristhian_Jaramillo/8189448)
 
 ## Tabla de contenidos
