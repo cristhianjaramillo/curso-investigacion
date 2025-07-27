@@ -1,6 +1,1 @@
 theme: jekyll-theme-minimal
-markdown: kramdown
-
-# Add this line to include your CSS
-sass:
-  style: compressed
