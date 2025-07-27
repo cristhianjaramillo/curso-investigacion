@@ -20,10 +20,10 @@
 
 ## Contenido del repositorio
 
-`./scripts/` – Códigos en R de cada sesión (ejemplos y ejercicios).
-`./slides/` – Presentación de las sesiones teóricas.
-`./other/` – Otros materiales.
-README.md – Este documento explicativo.
+-   `./scripts/` – Códigos en R de cada sesión (ejemplos y ejercicios).
+-   `./slides/` – Presentación de las sesiones teóricas.
+-   `./other/` – Otros materiales.
+-   README.md – Este documento explicativo.
 
 ## Requisitos
 
