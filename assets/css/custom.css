@@ -1,4 +1,4 @@
 header h1,
-.project-name {
-  display: none;
+header .project-name {
+  display: none !important;
 }
