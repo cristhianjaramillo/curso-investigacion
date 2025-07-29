@@ -49,7 +49,7 @@ install.packages(c(
 1. Clona o descarga el repositorio:
    
 ```
-git clone https://github.com/usuario/estadistica-politica-2.git
+git clone https://github.com/cristhianjaramillo/curso-investigacion.git
 ```
 
 2. Sigue el orden de los scripts para reproducir los ejemplos vistos en clase.
